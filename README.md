@@ -74,4 +74,4 @@ Final Report (Cafeteria_Sales_Data_Analysis_Report.docx)
 ## 👤 Author
 **Vathada Swaroop Kumar**
 - GitHub: [swaroop456](https://github.com/swaroop456)
-- LinkedIn: [Vathada Swaroop Kumar](https://www.linkedin.com/in/swaroopkumarvathada)
+- LinkedIn: [Swaroop Kumar Vathada](https://www.linkedin.com/in/swaroopkumarvathada)
