@@ -73,6 +73,7 @@ Final Report (Cafeteria_Sales_Data_Analysis_Report.docx)
 
 ## 👤 Author
 **Vathada Swaroop Kumar**
+Data Analytics Learner | Ex-TCS | Agileology Platform
 
 - LinkedIn: [Swaroop Kumar Vathada](https://www.linkedin.com/in/swaroopkumarvathada)
   
